@@ -110,7 +110,7 @@ Desenvolvimento de sistemas, interfaces, HUDs, scripts e recursos personalizados
   <a href="https://github.com/zTexuss">
     <img src="https://img.shields.io/badge/GitHub-zTexuss-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://discord.com/">
+  <a href="https://discord.com/ztexus">
     <img src="https://img.shields.io/badge/Discord-zTexuss-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
