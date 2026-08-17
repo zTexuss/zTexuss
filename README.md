@@ -1,16 +1,108 @@
-## Hi there 👋
+# 👋 Oi, eu sou o zTexuss.
 
-<!--
-**zTexuss/zTexuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Sou desenvolvedor e gosto de criar coisas do zero, principalmente **bots para Discord, sistemas, aplicações web, automações e projetos relacionados a jogos**.
 
-Here are some ideas to get you started:
+🚀 Gosto de transformar ideias em projetos reais, desde uma pequena automação até sistemas completos com backend, banco de dados e interface.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Não vou dizer que sei tudo — longe disso 😅. Estou sempre aprendendo, testando tecnologias novas e explorando diferentes áreas do desenvolvimento.
+
+🐺 Atualmente, estou focado em projetos próprios e no desenvolvimento do ecossistema **Lyra**, criando ferramentas, bots e soluções para comunidades e desenvolvedores.
+
+---
+
+## 🚀 O que eu faço
+
+* 🤖 Desenvolvimento de Bots para Discord
+* ⚙️ Automação e integrações
+* 🌐 Desenvolvimento Web
+* 🖥️ Aplicações Desktop
+* 📱 Aplicações Mobile
+* 🎮 Desenvolvimento para MTA
+* 🔌 APIs e sistemas Backend
+* 🎨 Interfaces e experiências digitais
+
+---
+
+## 🌌 Projetos
+
+### 🐺 Lyra Code
+
+Ecossistema focado no desenvolvimento de **bots, sistemas e soluções para Discord**.
+
+> Build. Automate. Innovate.
+
+### 💜 Lyra
+
+Projeto voltado para ferramentas e soluções de software, explorando desenvolvimento desktop, mobile e inteligência artificial.
+
+### 🎮 Projetos MTA
+
+Desenvolvimento de sistemas, interfaces, HUDs, scripts e recursos personalizados utilizando **Lua** para servidores MTA.
+
+---
+
+## 📊 GitHub Stats
+
+![zTexuss GitHub Stats](https://github-readme-stats.vercel.app/api?username=zTexuss\&show_icons=true\&theme=radical\&include_all_commits=true\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zTexuss\&layout=compact\&theme=radical\&hide_border=true)
+
+---
+
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=zTexuss\&color=7C3AED\&style=flat)
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge\&logo=lua\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+
+### Web & Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+
+### Applications
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge\&logo=electron\&logoColor=white)
+
+### Database & Tools
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+---
+
+## 🌐 Socials
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/zTexuss)
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/)
+
+---
+
+## 📫 Entre em contato
+
+Se quiser trocar uma ideia, falar sobre desenvolvimento ou colaborar em algum projeto, pode me encontrar pelo **GitHub** ou **Discord**.
+
+---
+
+### 🐺 zTexuss
+
+> "Transformando ideias em código."
+
+💜 **Build. Automate. Innovate.**
