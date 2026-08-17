@@ -90,23 +90,17 @@ Desenvolvimento de sistemas, interfaces, HUDs, scripts e recursos personalizados
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zTexuss&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
-</p>
-
----
-
 ## 🚀 Projetos em Destaque
 
 <p align="center">
-  <a href="https://github.com/zTexuss">
-    <img src="https://github-readme-stats-wheat-gamma-25.vercel.app/api/pin/?username=zTexuss&repo=lyra-code&theme=radical&hide_border=true"/>
+  <a href="https://github.com/zTexuss/InfoMe">
+    <img src="https://github-readme-stats-wheat-gamma-25.vercel.app/api/pin/?username=zTexuss&repo=InfoMe&theme=radical&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/zTexuss/cnconnect">
+    <img src="https://github-readme-stats-wheat-gamma-25.vercel.app/api/pin/?username=zTexuss&repo=cnconnect&theme=radical&hide_border=true" />
   </a>
 </p>
-
-> 💡 Esta seção pode receber seus principais repositórios conforme eles forem publicados no GitHub.
 
 ---
 
